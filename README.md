@@ -2,17 +2,17 @@
 
 ## Student Information
 
-Name: TODO
+Name: 楊育昇
 
-Student ID: TODO
+Student ID: 112A50029
 
 ## Project Repository
 
-GitHub repository: TODO
+GitHub repository: https://github.com/Byron666666/Final-project
 
 ## Presentation Video
 
-YouTube link: TODO
+YouTube link: https://youtu.be/dTkvr_x9dVk
 
 ## Overview
 
