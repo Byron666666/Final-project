@@ -1,0 +1,8 @@
+analysis_variable,source_column,definition
+bmi_pct,BMIPCT,BMI percentile based on CDC age-sex growth charts.
+sleep_group,Sleep / Q97,"<=6 hours, 7 hours, or 8+ hours on an average school night."
+physical_activity_days,PhysicalActivity5OrMoreDays / Q80,Days in the past 7 days with at least 60 minutes of physical activity.
+tv_hours,TelevisionWatching / Q81,Approximate TV hours on an average school day; 5+ coded as 5.
+computer_hours,ComputerUse / Q82,Approximate non-school computer/video game hours; 5+ coded as 5.
+sex,WhatIsYourSex / Q2,"1 = Female, 2 = Male."
+grade,InWhatGradeAreYou / Q3,9th through 12th grade; ungraded/other excluded from regression.

@@ -1,0 +1,7 @@
+metric,value
+Original records,14041.0
+Records with BMI percentile,13062.0
+Complete regression records,11256.0
+"Mean BMI percentile, analysis sample",65.20907029337168
+"Weighted mean BMI percentile, analysis sample",63.807219363082694
+"Short sleep share (<=6 hours), analysis sample",0.38939232409381663
